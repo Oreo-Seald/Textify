@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.hars{
+  color: blue;
+}
+
+#form{
+  margin-top: -14px;
+  position: relative;
+  background: #000000d0;
+  color: whitesmoke;
+  outline: none;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+
+body{
+    
+ background-color: black;
+ background: url('https:source.unsplash.com/1600x900/?night');
+ font-family: 'Coming Soon' , sans-serif;
+}
+.head{
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+.nav-link{
+  color: white;
+}
+
+#ui{
+  color: white;
+}
+
+#ui:hover{
+  color: black;
+}
+
+.white{
+  color: white;
+}
+
+.white1{
+  margin-left: 01px;
+  color: white;
+  margin-top: -13px;
+}
+
+#bhu{
+  margin-left: 950px;
+  margin-top: -620px;
+  display: none;
+}
+
+.nav-link:hover{
+  color: black;
+}
+
+#ide{
+  margin-top: -60px;
+  margin-left: 1100px;
+}
+#fm{
+max-height: 50px;
+}
+
+#btn2{
+  color: white;
+}
+
+@media(max-width:320px){
+#crg{
+  margin-top: 6px;
+  margin-left: -115px;
+}
+#rty{
+  margin-top: 5px;
+  margin-left: 300px;
+}
+}
+.white2{
+  margin-top: -10px;
+  color: white;
+}
